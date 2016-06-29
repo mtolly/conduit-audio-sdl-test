@@ -1,0 +1,11 @@
+resolver: lts-3.13
+packages:
+- '.'
+extra-deps:
+- sdl2-2.1.0
+- conduit-audio-0.2.0.1
+- conduit-audio-sndfile-0.1
+- hsndfile-0.8.0
+- hsndfile-vector-0.5.2
+flags: {}
+extra-package-dbs: []
